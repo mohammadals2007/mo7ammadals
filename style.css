@@ -1,0 +1,115 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0;
+    width: 100%; 
+}
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  
+  .main {
+    margin-top: 30px; 
+  }
+  .reason{
+font-size: 35px;
+font-weight: 900;
+margin-top: 2cm;
+margin-left: 2cm;
+  }
+  .first{
+font-size: 25px;
+font-weight: 500;
+  }
+  .btn{
+    margin: 0;
+  position: absolute;
+  margin-left: 4cm;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #04AA6D;
+
+  }
+  .parg1{
+    font-size: 45px;
+    margin-top: 2cm;
+    margin-right: 390px;
+    background-color: rgb(125, 177, 177);
+    margin-left:2cm ;
+  }
+  .parg2{
+   text-align: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+  }
+  .parg3{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: left;
+  }
+  .parg4{
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .parg5{
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .vid{
+    text-align: center;
+  }
+  .parg6{
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .parg7{
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .parg8{
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .parg9{
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .parg10{
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .parg11{
+    font-size: 25px;
+    font-weight: 500;
+  }
+.parg12{
+  margin-left: 2cm;
+  background-color: #dadada60;
+  font-size: 25px;
+font-weight: 500;
+}
+.footer{
+  background-color: #dadada52;
+  height: auto;
+}
+.vid2{
+  text-align: center;
+}
+.img3{
+  margin-left: 6em;
+}
